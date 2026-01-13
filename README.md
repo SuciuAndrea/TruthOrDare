@@ -1,16 +1,27 @@
-# truth_or_dare
+# Adevar sau Provocare
 
-A new Flutter project.
+O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!
 
-## Getting Started
+## ✨ Despre Proiect
 
-This project is a starting point for a Flutter application.
+✨ Despre Proiect
+Prima mea aplicație Flutter, creată ca proiect individual pentru cursul de Tehnologii pentru Dispozitive Mobile. Aplicația demonstrează navigare între ecrane, state management, widget-uri custom și design modern.
+🎯 Funcționalități
 
-A few resources to get you started if this is your first Flutter project:
+🏠 Ecran principal cu alegere între Adevăr sau Provocare
+💭 15 întrebări diverse pentru Adevăr
+🔥 15 provocări amuzante pentru Dare
+🔄 Generare random la fiecare apăsare
+🎨 Design modern cu gradient-uri colorate
+📱 Navigare fluidă între ecrane
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Tehnologii
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter & Dart
+Material Design
+State Management cu StatefulWidget
+
+## screenshots
+![1](repo-assets/1.png)
+![2](repo-assets/2.png)
+![3](repo-assets/3.png)
