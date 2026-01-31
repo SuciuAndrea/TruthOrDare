@@ -1,7 +1,6 @@
 # Adevar sau Provocare
 
-O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!
-
+O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!
 ## ✨ Despre Proiect
 
 ✨ Despre Proiect
