@@ -3,7 +3,7 @@
 O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare" în era digitală!
 ## ✨ Despre Proiect
 
-✨ Despre Proiect
+
 Aplicație Flutter creată ca proiect individual pentru cursul de Tehnologii pentru Dispozitive Mobile. Demonstrează concepte avansate de dezvoltare Flutter: navigare complexă între ecrane, state management, widget-uri custom reutilizabile, animații fluide și persistență de date.
 
 🎯 Funcționalități
