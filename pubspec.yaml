@@ -1,5 +1,5 @@
 name: truth_or_dare
-description: Aplicație Adevăr sau Provocare - Proiect Flutter
+description: Aplicație Adevăr sau Provocare cu categorii și animații
 
 publish_to: 'none'
 
@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2  # Pentru salvarea stării
 
 dev_dependencies:
   flutter_test:
@@ -20,3 +21,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  
+  # Declarăm folderul assets
+  assets:
+    - assets/icons/
