@@ -7,6 +7,21 @@ O aplicație Flutter interactivă care aduce jocul clasic "Adevăr sau Provocare
 ✨ Despre Proiect
 Aplicație Flutter creată ca proiect individual pentru cursul de Tehnologii pentru Dispozitive Mobile. Demonstrează concepte avansate de dezvoltare Flutter: navigare complexă între ecrane, state management, widget-uri custom reutilizabile, animații fluide și persistență de date.
 
+
+## 📱 Screenshots
+
+
+<div align="center">
+  <img src="repo-assets/1.png" width="220">
+  <img src="repo-assets/2.png" width="220">
+  <img src="repo-assets/3.png" width="220">
+  <img src="repo-assets/4.png" width="220">
+  <img src="repo-assets/5.png" width="220">
+  <img src="repo-assets/6.png" width="220">
+
+</div>
+
+
 🎯 Funcționalități
 
 • 6 Categorii Diverse  
@@ -70,15 +85,7 @@ Aplicație Flutter creată ca proiect individual pentru cursul de Tehnologii pen
   Datele rămân salvate după închiderea aplicației  
 
 
-## 📱 Screenshots
 
-
-<div align="center">
-  <img src="repo-assets/1.png" width="220">
-  <img src="repo-assets/2.png" width="220">
-  <img src="repo-assets/3.png" width="220">
-  <img src="repo-assets/4.png" width="220">
-</div>
 
 
 ## Principii Arhitecturale Aplicate
