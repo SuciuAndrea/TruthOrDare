@@ -199,6 +199,7 @@ class _ChallengeScreenState extends State<ChallengeScreen> {
               ),
               boxShadow: [
                 BoxShadow(
+                  // ignore: deprecated_member_use
                   color: color.withOpacity(0.3),
                   blurRadius: 12,
                   offset: const Offset(0, 4),

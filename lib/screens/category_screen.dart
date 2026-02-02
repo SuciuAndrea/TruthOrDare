@@ -57,10 +57,10 @@ class CategoryScreen extends StatelessWidget {
           const SizedBox(width: 12),
           
           // Titlu
-          Expanded(
+          const Expanded(
             child: Text(
               AppStrings.selectCategoryTitle,
-              style: const TextStyle(
+              style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
                 color: Colors.white,

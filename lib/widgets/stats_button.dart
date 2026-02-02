@@ -135,12 +135,12 @@ class _StatsButtonState extends State<StatsButton> {
           // Buton Close
           TextButton(
             onPressed: () => Navigator.pop(context),
-            child: const Text('Închide'),
             style: TextButton.styleFrom(
               foregroundColor: widget.isTruth 
                   ? const Color(0xFF2563EB) 
                   : const Color(0xFFEF4444),
             ),
+            child: const Text('Închide'),
           ),
         ],
       ),
